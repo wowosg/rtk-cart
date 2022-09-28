@@ -1,1 +1,1 @@
-wowosg.github.io/rtk-cart
+https://wowosg.github.io/rtk-cart/
