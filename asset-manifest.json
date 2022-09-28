@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtk-cart/static/css/main.a1407077.css",
+    "main.js": "/rtk-cart/static/js/main.b92b65dc.js",
+    "index.html": "/rtk-cart/index.html",
+    "main.a1407077.css.map": "/rtk-cart/static/css/main.a1407077.css.map",
+    "main.b92b65dc.js.map": "/rtk-cart/static/js/main.b92b65dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1407077.css",
+    "static/js/main.b92b65dc.js"
+  ]
+}
